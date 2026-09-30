@@ -1,4 +1,4 @@
-# pygame-dvd-simulation
+# pygame DVD simulation
 
 A lightweight Pygame simulation of the bouncing DVD logo, featuring an auto-scaling telemetry interface and bounce physics.
 
